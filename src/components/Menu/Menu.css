@@ -1,0 +1,38 @@
+.M{
+    text-decoration: none;
+    color: #209869;
+    padding: 12px;
+}
+.M:focus{
+    color: #aaa;
+}
+.M:hover{
+    color: #aaa;
+}
+.L{
+    text-decoration: none;
+    color: #930089;
+    padding: 12px;
+}
+.L:focus{
+    color: #aaa;
+}
+.L:hover{
+    color: #aaa;
+}
+.Q{
+    text-decoration: none;
+    color: #260085;
+    padding: 12px;
+}
+.Q:focus{
+    color: #aaa;
+}
+.Q:hover{
+    color: #aaa;
+}
+
+.link{
+    font-size: 24px;
+    font-weight: bold;
+}

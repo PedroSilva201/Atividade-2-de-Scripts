@@ -1,0 +1,46 @@
+.bloco2{
+    width: 80vh;
+    height: 30vh;
+}
+.jogoQ{
+    color:#260085;
+    font-size: 40px;
+    font-family: roboto;
+}
+.premioQ{
+    color:#260085;
+    font-family: roboto;
+    padding-top: 15px;
+    font-weight: bolder;
+    font-size: large;
+}
+.palavraQ{
+    color:#4c556c;
+    font-family: roboto;
+    padding-top: 15px;
+}
+.modeloQ{
+    display:flex;
+    font-family: roboto;
+
+}
+.testeQ{
+    padding: 25px;
+    margin:1px;
+    border-radius: 100%;
+    background-color: #260085;
+    display:inline-block;
+    color: white;
+}
+.ganhouQ{
+    color:#0066b3;
+    font-family: roboto;
+    padding-top: 15px;
+    font-weight: bolder;
+    font-size: large;
+}
+.concursoQ{
+    color:#4c556c;
+    font-family: roboto;
+    padding-top: 15px;
+}
