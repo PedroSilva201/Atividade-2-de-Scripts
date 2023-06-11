@@ -1,20 +1,19 @@
-## React TS - Services
+## Atividade 2 de Programação de Scripts
 
-Neste exemplo, faz se a conexão com o serviço da ViaCEP.
-Faz-se uso do pacote [axios](https://www.npmjs.com/package/axios) para efetuar as requisições HTTP.
+Nesta atividade foi realizado a exibição dos resultados da Mega-sena, Quina e Lotofácil utilizando rotas para requisição.
 
 ### Instruções de uso
 
 Baixar o projeto na pasta `front` do seu computador:
 ```
-git clone https://github.com/arleysouza/react-service.git front
+git clone https://github.com/PedroSilva201/Atividade-2-de-Scripts
 ```
 Instalar as dependências:
 ```
 cd front
 npm i
 ```
-A aplicação estará na porta 3100. Comando para subir a aplicação:
+A aplicação estará na porta 3000. Comando para subir a aplicação:
 ```
 npm start
 ```
